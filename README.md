@@ -1,7 +1,7 @@
-                                                                                             NAME    : K.DHANUSYA
-                                                                                             REG. NO.: 212223230043
-
-
+                                                                                                         NAME    : K.DHANUSYA
+                                                                                                         REG. NO.: 212223230043
+                                                                                                         
+                                                                                                  
 #  Mean and variance of a discrete  distribution
 
 
